@@ -27,7 +27,7 @@ function renderList(hits) {
   <img src="${largeImageURL}" alt="${tags}" loading="lazy" />
   <div class="info">
     <p class="info-item">
-      <b>likes </b>
+      <b>Likes </b>
       ${likes}
     </p>
     <p class="info-item">
